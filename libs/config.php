@@ -1,0 +1,1 @@
+<?php	class Config {	protected $HOST = "localhost"; 	// use your own host	protected $ROOT = "root"; 		// use your own user name	protected $PSW  = ""; 			// use your own password	protected $DB   = "test"; 		// use your own database}
